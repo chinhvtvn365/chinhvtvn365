@@ -14,7 +14,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Redux-f74ff1?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
 &nbsp;
-
 <span><img src="https://img.shields.io/badge/Nuxt.js-f74ff1?logo=nuxt.js&logoColor=4FC08D" alt="Nuxt.js logo" title="Nuxt.js" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-f74ff1?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
@@ -91,7 +90,7 @@
 <h2 align="center">💞 Random Quotes 💞</h2>
 <br>
 <!-- https://github.com/shravan20/github-readme-quotes -->
-<div align="right">
+<div align="center">
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in&layout=zues&font=Redressed)
 
