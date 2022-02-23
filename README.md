@@ -3,6 +3,8 @@
   <img src="svg/jsmaster.svg" width="1200" alt="Click to see the source" />
 </a>
 
+[![:the_jam:](https://cdn.discordapp.com/emojis/745354525958996138.gif?v=1)](https://tiktok.com/)
+
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
