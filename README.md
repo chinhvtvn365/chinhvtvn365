@@ -55,12 +55,12 @@
 
 <div align=center>
   <a href="#" title="chinhvtvn365">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinhvtvn365&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=2d08ff&icon_color=ff08a2&bg_color=ff4dfe&langs_count=8&layout=compact&border_color=ff08a2&hide_border=true" 
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinhvtvn365&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=2d08ff&icon_color=ff08a2&bg_color=fc7de8&langs_count=8&layout=compact&border_color=ff08a2&hide_border=true" 
     />
     
   </a>
   <a href="#" title="chinhvtvn365">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=chinhvtvn365&show_icons=true&theme=dracula&border_color=08f9ff&bg_color=ff4dfe&title_color=F7DF1E&text_color=2d08ff&icon_color=ff08a2&hide_border=true" />
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=chinhvtvn365&show_icons=true&theme=dracula&border_color=08f9ff&bg_color=fc7de8&title_color=F7DF1E&text_color=2d08ff&icon_color=ff08a2&hide_border=true" />
   </a>
 </div>
 
