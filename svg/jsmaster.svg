@@ -69,7 +69,10 @@
           width: 80px;
           height: 80px;
         }
-
+        .icon5 > img{
+          width: 110px;
+          height: 110px;
+        }
         .only_nodejs_skill {
           margin-left: 80px;
         }
