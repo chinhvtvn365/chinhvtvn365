@@ -94,7 +94,7 @@
 <!-- https://github.com/shravan20/github-readme-quotes -->
 <div align="center">
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in&layout=zues&font=Redressed)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?quotesUrl=https://github.com/chinhvtvn365/trietly/blob/master/quotes.json&theme=dark&animation=grow_out_in&layout=zues&font=Redressed)
 
 </div>
 
