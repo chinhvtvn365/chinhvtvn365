@@ -3,9 +3,6 @@
   <img src="svg/jsmaster.svg" width="1200" alt="Click to see the source" />
 </a>
 
- <a href="#" target="_blank">
-  <img src="svg/hi.svg" width="1200" alt="abc" />
-</a>
 
 [![:the_jam:](https://cdn.discordapp.com/emojis/745354525958996138.gif?v=1)](https://tiktok.com/)
 
